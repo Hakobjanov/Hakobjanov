@@ -4,6 +4,7 @@ My [code::stats](https://codestats.net/users/vahan)
 
 [![Chuck Norris joke generator](https://github.com/Hakobjanov/Hakobjanov/blob/main/chuck.png?raw=true)](https://hakobjanov.github.io/chuck-norris-please/)
 
+[<img src="https://github.com/Hakobjanov/Hakobjanov/blob/main/chuck.png?raw=true" style="border: 2px solid #000; width: 200px; heigth: auto;">](https://hakobjanov.github.io/chuck-norris-please/)
 <!--
 **Hakobjanov/Hakobjanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
