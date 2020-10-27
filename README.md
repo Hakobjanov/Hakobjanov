@@ -2,6 +2,9 @@
 
 My [code::stats](https://codestats.net/users/vahan)
 
+[![Chuck Norris joke generator](https://github.com/Hakobjanov/Hakobjanov/blob/main/chuck.png?raw=true)](https://hakobjanov.github.io/chuck-norris-please/)
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 <!--
 **Hakobjanov/Hakobjanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
